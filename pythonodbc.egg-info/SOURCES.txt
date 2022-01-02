@@ -1,0 +1,7 @@
+pythonodbc.py
+setup.py
+pythonodbc.egg-info/PKG-INFO
+pythonodbc.egg-info/SOURCES.txt
+pythonodbc.egg-info/dependency_links.txt
+pythonodbc.egg-info/requires.txt
+pythonodbc.egg-info/top_level.txt
